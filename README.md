@@ -1,2 +1,2 @@
-# rumelifotografcilik.com.tr
-https://www.rumelifotografcilik.com.tr
+# rumelifotografcilik.com
+https://www.rumelifotografcilik.com
